@@ -1,0 +1,15 @@
+ProjectName= SimZ180
+BuildFile= C:\WinForth\Z180Simulator\OPCodeBase.f
+SearchPath= C:\WinForth\Z180Simulator\
+SimZ180,0
+Modules,5
+C:\WinForth\Z180Simulator\OPCodeBase.f
+C:\WinForth\Z180Simulator\Registers.f
+C:\WinForth\Z180Simulator\MMU.f
+C:\WinForth\Z180Simulator\ALU.f
+C:\WinForth\Z180Simulator\Context.f
+DLLs,0
+Forms,0
+Auxiliary Files,0
+Resources,0
+Docs,0
